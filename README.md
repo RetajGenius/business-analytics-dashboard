@@ -1,6 +1,7 @@
 # MERN Dashboard Project
 
-![Dashboard Screenshot](client/public/readme_assets/screenshot.png)
+<img width="1920" height="938" alt="Dashboard" src="https://github.com/user-attachments/assets/38d74e64-2d96-44f9-8fef-7d5584bcada9" />
+
 
 This comprehensive dashboard project is built using the MERN (MongoDB, Express.js, React, Node.js) stack, providing a versatile interface for managing various aspects of data visualization, client interaction, and administrative functionalities. It offers light and dark mode themes for optimal user experience and is designed to be responsive across different devices.
 
@@ -204,7 +205,9 @@ This structure separates the client and server codebases for better organization
 
 ## Author
 
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
+- Usman Ghani  
+- GitHub: https://github.com/G-o-ah  
+- LinkedIn: https://www.linkedin.com/in/usmanghani-datascience
 
 Certainly! Here's the documentation section with relevant links:
 
