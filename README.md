@@ -221,6 +221,4 @@ Certainly! Here's the documentation section with relevant links:
 - **[Mongoose Documentation](https://mongoosejs.com/docs/)**: Refer to Mongoose documentation for MongoDB object modeling in Node.js.
 - **[React Router DOM Documentation](https://reactrouter.com/web/guides/quick-start)**: Learn how to use React Router DOM for client-side routing within the application.
 
----
 
-Feel free to adjust any sections or details according to your preferences!
